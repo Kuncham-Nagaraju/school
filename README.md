@@ -1,8 +1,8 @@
 # school
-## Class
 github.com › loginSign in to GitHub · GitHub
 GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.
 
+## Class
 People also search for
 githubgithub login
 github downloadgit
