@@ -38,16 +38,3 @@ github download
 git
 chat gpt
 git download
-vercel
-netlify
-github desktop
-12345Next
-GitHub
-GitHub
-github.com
-GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. Wikipedia
-
-Headquarters: San Francisco, California, U.S.
-Founder(s): Chris Wanstrath, P. J. Hyett, Tom Preston-Werner
-Parent organization: Microsoft
-Wiki
